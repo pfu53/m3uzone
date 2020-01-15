@@ -1,4 +1,5 @@
 #EXTM3U
+######################################### NASIONAL #################################
 #EXTINF:0 tvg-id="ext" group-title="Channels",TRANSTV 1
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",TRANSTV 2
@@ -99,6 +100,8 @@ http://103.30.1.14:8080/hls/live.m3u8
 http://rr2.dens.tv/s/s48/index2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",CNBC INDONESIA
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+
+######################################### LOKAL 2 #################################
 #EXTINF:0 tvg-id="ext" group-title="Channels",ELSHINTA
 http://210.210.155.35/qwr9ew/s/s10/01.m3u8
 #EXTINF:0 tvg-id="intv.de" group-title="Channels",INTV
@@ -135,6 +138,7 @@ http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
 http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/chunklist_w146491720_b1398304.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",TAHFIDZ TV
 http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",SCTV HD
 https://etslive-2-vidio-com.akamaized.net/exp=1576541329~acl=/hls-p/ingest_204_*/*~hmac=4779eee459984ac7df10bdeaeeaec308a97938df84df215514cfe6ea411eab3f/hls-p/ingest_204_720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",INDOSIAR HD
@@ -167,10 +171,14 @@ https://etslive-2-vidio-com.akamaized.net/exp=1576541882~acl=/hls-p/ingest_875_*
 https://kmklive-lh.akamaihd.net/i/rtv_ta_geo@137568/index_480_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1576484330~acl=%2fi%2f*~data=hdntl~hmac=77ff46be41b7fa48f45f6d84ff7079fd621dcfa39be1a70bbbc5454d0203f034
 #EXTINF:0 tvg-id="ext" group-title="Channels",TVRI HD
 https://etslive-2-vidio-com.akamaized.net/exp=1575825408~acl=/hls-p/ingest_6441_*/*~hmac=47666e47e763e5738583d8140bb69b6dc28dc25dd5d484a07291d263ccce546c/hls-p/ingest_6441_720p/index.m3u8
+
+######################################### MUSIC #################################
 #EXTINF:0 tvg-id="ext" group-title="Channels",T MUSIC
 https://cdnjt25.useetv.com/joss/14/tmusic/chunklist_w605950752_b684100_sleng.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",MIX MUSIC
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/chunklist_b2352000.m3u8
+
+######################################### LOKAL 1 #################################
 #EXTINF:0 tvg-id="ext" group-title="Channels",TAWAFTV
 http://stream2.ninmedia.tv/tawaftv/rtmp.stream_360p/chunklist_w720255703.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",KITANESIA
@@ -236,6 +244,8 @@ http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",MK TV
 http://stream1.ninmedia.tv/mktv/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",TVRI SPORT
+
+######################################### BOCAH #################################
 http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/02.m3u8
 #EXTINF:0 tvg-id="DuckTV.day" group-title="Channels",Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
@@ -339,6 +349,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 http://ott-cdn.ucom.am/s46/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Greek kids
 http://wpso.com:1936/hls/kidshd.m3u8
+
+######################################### SPORT #################################
 #EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 1 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 2 Arab
