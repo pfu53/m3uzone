@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://devanyahya.web.id/rctilogo.png" group-title="LOKAL 1",  RCTI
+http://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
+
+#EXTINF:-1 tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="LOKAL 1",  MNC
+http://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
+
+#EXTINF:-1 tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="LOKAL 1",  MNC Backup
+#http://id2.indostreamingtv.com/live/event/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" group-title="LOKAL 1",  GLOBAL TV
+http://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_sctv_big1.png?v=1.0.0.0" group-title="LOKAL 1",  SCTV
+http://rr2.dens.tv/s/s103/01.m3u8?regieaerlays
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0" group-title="LOKAL 1",  INDOSIAR
+http://rr2.dens.tv/s/s04/index2.m3u8?regieaerlays
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0" group-title="LOKAL 1",  ANTV
+http://id2.indostreamingtv.com/live/antv/index.m3u8?regieaerlays
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="LOKAL 1",  NET TV
+https://stream-03.sg1.dailymotion.com/sec(URBhp0zYv0oL3J-5svQBhsrcAvNSuWutagOup61Zsrs)/dm/3/x7lnclt/s/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" group-title="LOKAL 1",  TRANS TV
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1742067075_b384000_sleng.m3u8?regieaerlays
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="LOKAL 1",  TRANS7
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w798109995_b384000_sleng.m3u8?regieaerlays
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_jaktv_big1.png?v=1.0.0.0" group-title="LOKAL 1",  JAK TV
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_rtv_big1.png?v=1.0.0.0" group-title="LOKAL 1",  RAJAWALI TV
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-PWtwDVBQ81I/AAAAAAAAAAI/AAAAAAAAAAA/TV9LxFTHLEA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LOKAL 1",  INEWS
+http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="LOKAL 1",  BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="LOKAL 1",  CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="LOKAL 1",  CNN INDONESIA backup
+https://www.cnnindonesia.com/tv/embed
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png?v=1.0.0.0" group-title="LOKAL 1",  KOMPAS TV
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png?v=1.0.0.0" group-title="LOKAL 1",  METRO TV
+http://livetvhooq.akamaized.net/d7236670539144e0a5df0b8fa7a0c5c1/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1570264475~exp=9007200825005466~acl=/d7236670539144e0a5df0b8fa7a0c5c1/*/profile_0/chunklist.m3u8*~hmac=113d2c8fce5c53bb675720b941b70c7a1bee5a01529d4041868efa3372a0c045
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="LOKAL 1",  TV ONE
+http://id1.indostreamingtv.com/live/tv444/index.m3u8?regieaerlays
