@@ -5,9 +5,6 @@ http://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/
 #EXTINF:-1 tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="LOKAL 1",  MNC
 http://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
 
-#EXTINF:-1 tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="LOKAL 1",  MNC Backup
-#http://id2.indostreamingtv.com/live/event/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" group-title="LOKAL 1",  GLOBAL TV
 http://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
 
@@ -19,9 +16,6 @@ http://rr2.dens.tv/s/s04/index2.m3u8?regieaerlays
 
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0" group-title="LOKAL 1",  ANTV
 http://id2.indostreamingtv.com/live/antv/index.m3u8?regieaerlays
-
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="LOKAL 1",  NET TV
-https://stream-03.sg1.dailymotion.com/sec(URBhp0zYv0oL3J-5svQBhsrcAvNSuWutagOup61Zsrs)/dm/3/x7lnclt/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" group-title="LOKAL 1",  TRANS TV
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1742067075_b384000_sleng.m3u8?regieaerlays
@@ -40,9 +34,6 @@ http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomai
 
 #EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="LOKAL 1",  BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="LOKAL 1",  CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="LOKAL 1",  CNN INDONESIA backup
 https://www.cnnindonesia.com/tv/embed
