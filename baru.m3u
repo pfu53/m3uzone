@@ -218,8 +218,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_500000
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.huntchannel.tv/wp-content/uploads/2017/10/HC-Logo-transparent.png" group-title="USA/Canada",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/ICI_RDI_2016.png" group-title="Canadian TV",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-logo="http://icitelevision.ca/wp-content/uploads/2017/10/logoretina.png" group-title="USA/Canada",Ici Tele
 http://flowcaster.cdn.clearcable.net:1935/icilive/smil:icitv.smil/chunklist_w1610652848_b4160000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51KxCs%2BTT8L._SY355_.png" group-title="USA/Canada",Law & Crime Trial
@@ -345,31 +343,6 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/On_Sport.jpg" group-title="رياضات",ON Sport
 http://95.170.215.107:80/hls/m3u8/ON-Sport.m3u8
 
-#EXTINF:-1 tvg-logo="http://aqsatv.ps/style/atyaf/assets/images/logo.png" group-title="Palestine (فلسطين)",Al Aqsa
-http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://alfajertv.com/style/atyaf/assets/images/logo.png" group-title="Palestine (فلسطين)",Al-Fajer
-http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://nw-24.com/wp-content/uploads/Ajyal-TV.nw-24.com_.jpg" group-title="Palestine (فلسطين)",Ajyal
-http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://nw-24.com/wp-content/uploads/Kol-Alnas-TV.nw-24.com_.jpg" group-title="Palestine (فلسطين)",Kol Alnas
-http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://nw-24.com/wp-content/uploads/Maan-TV.nw-24.com_.jpg" group-title="Palestine (فلسطين)",Ma’an TV
-http://vstream2.hadara.ps:8081/MaanHD_web/web/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://english.pnn.ps/wp-content/uploads/2015/03/logo-1.png" group-title="Palestine (فلسطين)",Palestine News Network
-http://htvmada.mada.ps:8888/pnn/index.m3u8
-#EXTINF:-1 tvg-logo="http://paltoday.tv/style/assets/images/logo.png" group-title="Palestine (فلسطين)",Palestine Today
-http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
-#EXTINF:-1 tvg-logo="http://www.salam-tv.ps/media/images/logo.png" group-title="Palestine (فلسطين)",Salam TV
-http://htvint.mada.ps:8889//salamtv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Al_Jazeera_Doc.png/225px-Al_Jazeera_Doc.png" group-title="Qatar(دولة قطر)",Al Jazeera Documentary
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600kStream.m3u8
-#EXTINF:-1 tvg-logo="https://network.aljazeera.com/sites/aj_corporate/files/ajm-sm.png" group-title="Qatar(دولة قطر)",Al Jazeera Mubasher
-http://220.158.149.14:9999/live/TV00000000000000000088@HHZT;LIVE
-#EXTINF:-1 tvg-logo="https://baraem.tv/images/logo.png" group-title="Qatar(دولة قطر)",Baraeim tv
-http://livecdnh2.tvanywhere.ae:80/hls/baraeim/04.m3u8
-#EXTINF:-1 tvg-logo="https://www.jeemtv.net/bundles/jeemmain/facebook_thumbs/jeemtv_logo.jpeg" group-title="Qatar(دولة قطر)",Jeem TV
-http://livecdnh2.tvanywhere.ae:80/hls/jeem/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Al_Ekhbariya.png" group-title="Saudi Arabia(السعودية)",Al Saudiya
 https://bozztv.com/36bay2/gin/giniko_sauditv_900kb_36bay2/tracks-v1a1/mono.m3u8
