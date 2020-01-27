@@ -2,7 +2,8 @@
 zone m3u
 
 File M3U IPTV 
-Updated kalau lagi ga males 
+
+Monggoh.... :-)
 
 
 Dash_rope
