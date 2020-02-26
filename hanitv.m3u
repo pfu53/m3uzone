@@ -358,7 +358,66 @@ https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah.m3u8
 https://edge.siar.us/tvririau/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/USEEPRIMEHD.png" group-title="Indonesia",Usee Prime
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
+
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/USEEPHOTOHD.png" group-title="Indonesia",Usee Photo
 https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
 #EXTINF:-1 tvg-logo="https://www.zeebioskop.com/wp-content/uploads/sites/38/2019/06/76x50_R.png" group-title="Indonesia",Zee Bioskop
 https://t4.mbahnunungonline.net/session/5f306ac0-400f-11ea-81aa-9d5f9fab9635/qwr9ew/s/s32/01.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="TEST",AXN-2
+http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",SONY
+http://210.210.155.66/h/h143/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",AXN
+http://210.210.155.66/h/h141/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Sony One
+http://210.210.155.66/h/h143/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Sony Gem
+http://210.210.155.66/h/h19/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",NHK World
+http://210.210.155.66/h/h23/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Egg Network
+http://210.210.155.66/h/h22/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Channel Newsasia
+http://210.210.155.66/h/h29/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Sony Gem
+http://210.210.155.66/h/h19/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",NHK World
+http://210.210.155.66/h/h23/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Egg Network
+http://210.210.155.66/h/h22/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Channel Newsasia
+http://210.210.155.66/h/h29/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",TV5 Monde Style
+http://210.210.155.66/h/h01/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",TV5 Monde Style
+http://210.210.155.66/h/h01/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",MNC Lifestyle
+http://210.210.155.66/h/h28/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",MNC Lifestyle
+http://210.210.155.66/h/h28/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Metro
+http://210.210.155.66/h/h12/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Metro
+http://210.210.155.66/h/h12/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Satellite TV
+http://210.210.155.66/h/h08/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Satellite TV
+http://210.210.155.66/h/h08/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Kix
+http://210.210.155.66/h/h07/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Kix
+http://210.210.155.66/h/h07/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Fight Sports
+http://210.210.155.66/h/h05/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Fight Sports
+http://210.210.155.66/h/h05/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Bloomberg
+http://210.210.155.66/h/h04/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Bloomberg
+http://210.210.155.66/h/h04/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Bloomberg
+http://210.210.155.66/h/h03/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Hits
+http://210.210.155.66/h/h37/01.m3u8
+
