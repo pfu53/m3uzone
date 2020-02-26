@@ -9,6 +9,9 @@ http://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/
 #EXTINF:0 tvg-id="ext" group-title="LOKAL",KOMPAS TV
 https://etslive-2-vidio-com.akamaized.net/exp=1581350275~acl=/hls-b/ingest_874_*/*~hmac=936206b2210883a003caf76ecdb0f9e0c8439c19133f1bdaa3efa9f909147372/hls-b/ingest_874_720p/index.m3u8
 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 group-title="LOKAL",KOMPAS TV
+https://etslive-2-vidio-com.akamaized.net/exp=1582474697~acl=/hls-p/ingest_874_*/*~hmac=ca9b71d51e1b09c6813e997618a87eaf382d5dbef650d4219fd30d5da51ac328/hls-p/ingest_874_720p/index.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="LOKAL",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
