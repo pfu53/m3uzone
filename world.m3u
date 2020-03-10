@@ -321,7 +321,7 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
 
 ######################################## OLAH RAGA ##################################
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/800px-Sky_Sport_Switzerland.svg.png" group-title="OLAHRAGA",SKY SPORTS PREMIER LEAGUE HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/800px-Sky_Sport_Switzerland.svg.png" group-title="OLAH RAGA",SKY SPORTS PREMIER LEAGUE HD
 http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/2823
 
 #EXTINF:0 group-title="OLAH RAGA"tvg-logo="http://logo.ddnb.tn/logochanel/2359.png",BeinSport Max 2
