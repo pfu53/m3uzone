@@ -82,11 +82,6 @@ https://cstream8.com/hls/skysportsarena.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/MatchTV.ru.png" group-title="Sports",Матч!
 http://stream3.kuvalda.tv/hls/match.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1000px-ACC_Network_ESPN_logo.svg.png" group-title="American Sports",ACC Network
-https://gma2.blab.email/acc.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="Football",True Sport 2
@@ -108,9 +103,6 @@ http://188.35.9.14:2012
 http://50.7.216.194:8080/SPORT_DIGITAL/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/AdultSwimOnAir.us.png" group-title="Entertainment",Adult Swim
-https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/AXN.id.png" group-title="Entertainment",AXN
 https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
 
@@ -128,15 +120,6 @@ http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Entertainment_Tonight_2014_logo.png" group-title="Entertainment",ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/FashionTV.fr.png" group-title="Entertainment",Fashion TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/FashionTV.fr.png" group-title="Entertainment",Fashion TV Midnite
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/FashionTV.fr.png" group-title="Entertainment",Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/fashionboxhd-logo.png" group-title="Entertainment",Fashion Box
 https://1575390972.rsc.cdn77.org/1575390972/tracks-v1a1/mono.m3u8
@@ -310,14 +293,6 @@ http://111.40.205.76/PLTV/88888888/224/3221225672/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://pic.iask.cn/fimg/78078440198.jpg" group-title="Learning",山东教育
 http://111.40.205.87/PLTV/88888888/224/3221225655/index.m3u8
-
-
-
-
-
-#EXTINF:-1,Voice of America
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-
 
 
 ######################################## OLAH RAGA ##################################
