@@ -1,0 +1,48 @@
+#EXTM3U
+#EXTINF:-1 group-title="LOKAL OK", KOMPAS TV
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+
+#EXTINF:-1 group-title="LOKAL OK",METRO TV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729486727_b1492000_sleng.m3u8
+
+#EXTINF:-1 group-title="LOKAL OK",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+
+#EXTINF:-1 group-title="LOKAL OK",TRANS 7 HD
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="LOKAL OK",TRANS TV HD
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="LOKAL OK",TRANS 7
+http://210.210.155.35/qwr9ew/s/s101/01.m3u8
+
+#EXTINF:-1 group-title="LOKAL OK",TVONE
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 group-title="LOKAL OK",NET TV
+http://45.126.83.51/qwr9ew/s/s08/index.m3u8
+
+#EXTINF:-1 group-title="LOKAL OK",TVRI SPORT
+http://210.210.155.35/qwr9ew/s/s107/01.m3u8
+
+#EXTINF:-1 group-title="LOKAL OK",FIGHT SPORTS
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+
+#EXTINF:-1 group-title="LOKAL OK",CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LOKAL OK",ELSHINTA TV
+http://45.126.83.51/qwr9ew/s/s10/index.m3u8
+
+#EXTINF:-1 group-title="LOKAL OK",TVRI
+http://45.126.83.51/qwr9ew/s/s11/index.m3u8
+
+#EXTINF:-1 group-title="LOKAL OK",CNBC INDONESIA HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LOKAL OK",RTV
+http://45.126.83.51/qwr9ew/s/s12/index.m3u8
+
+#EXTINF:-1 group-title="LOKAL OK",DAAI TV
+http://45.126.83.51/qwr9ew/s/s13/index.m3u8
