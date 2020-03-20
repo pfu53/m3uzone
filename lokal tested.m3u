@@ -87,7 +87,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1203062717_b
 http://stream1.ninmedia.tv/inspiratv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGcg87rw/elshintatv.png" group-title="LOKAL TEST", ELSHINTA TV
 http://45.126.83.51/qwr9ew/s/s10/01.m3u8
-============================================== TV LOKAL TEST =================================================================
+============================================== LOKAL TEST TEST =================================================================
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C11GK0PM/rodjatv.png" group-title="LOKAL TEST", RODJA TV
 http://45.126.83.51/qwr9ew/s/s14/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxmR2TZz/daaitv.png" group-title="LOKAL TEST", DAAI TV
@@ -150,3 +150,13 @@ http://45.126.83.51/qwr9ew/s/s12/index.m3u8
 
 #EXTINF:-1 group-title="LOKAL TEST",DAAI TV
 http://45.126.83.51/qwr9ew/s/s13/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/zalindo/mnctv.png" group-title="LOKAL TEST",MNC TV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1584658804~acl=/hls-b/ingest_870_*/*~hmac=3a588e24e1cddee56ce679327ca1fc349508b6fd823cd0889b397aaec90006f4/hls-b/ingest_870_720p/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/zalindo/mnctv.png" group-title="LOKAL TEST",MNC TV Backup 1
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/zalindo/mnctv.png" group-title="LOKAL TEST",MNC TV Backup 2
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/zalindo/mnctv.png" group-title="LOKAL TEST",MNC TV Backup 3
+https://app-linier.akamaized.net/live/eds/MNC/sa_hls/MNC-avc1_1000000=3-mp4a_64000=2.m3u8
