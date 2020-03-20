@@ -1,4 +1,5 @@
 #EXTM3U
+#################################### MNCTV ##########################################
 #EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/zalindo/mnctv.png" group-title="MNCTV",MNC 1
 https://etslive-2-vidio-com.akamaized.net/exp=1584658804~acl=/hls-b/ingest_870_*/*~hmac=3a588e24e1cddee56ce679327ca1fc349508b6fd823cd0889b397aaec90006f4/hls-b/ingest_870_720p/index.m3u8
 
@@ -19,3 +20,9 @@ http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="MNCTV", MNC 7
 https://live.rctiplus.id/rctiplus/mnctv_360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="MNCTV",  MNC 8
+http://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
+
+#EXTINF:-1 tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="MNCTV",  MNC 9
+http://id2.indostreamingtv.com/live/event/index.m3u8
