@@ -151,12 +151,12 @@ http://45.126.83.51/qwr9ew/s/s12/index.m3u8
 #EXTINF:-1 group-title="LOKAL TEST",DAAI TV
 http://45.126.83.51/qwr9ew/s/s13/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/zalindo/mnctv.png" group-title="LOKAL TEST",MNC TV HD
+#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/zalindo/mnctv.png" group-title="LOKAL TEST",MNC 5
 https://etslive-2-vidio-com.akamaized.net/exp=1584658804~acl=/hls-b/ingest_870_*/*~hmac=3a588e24e1cddee56ce679327ca1fc349508b6fd823cd0889b397aaec90006f4/hls-b/ingest_870_720p/index.m3u8
  
-#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/zalindo/mnctv.png" group-title="LOKAL TEST",MNC TV Backup 1
+#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/zalindo/mnctv.png" group-title="LOKAL TEST",MNC 6
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
-#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/zalindo/mnctv.png" group-title="LOKAL TEST",MNC TV Backup 2
+#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/zalindo/mnctv.png" group-title="LOKAL TEST",MNC 7
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
-#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/zalindo/mnctv.png" group-title="LOKAL TEST",MNC TV Backup 3
+#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/zalindo/mnctv.png" group-title="LOKAL TEST",MNC 8
 https://app-linier.akamaized.net/live/eds/MNC/sa_hls/MNC-avc1_1000000=3-mp4a_64000=2.m3u8
