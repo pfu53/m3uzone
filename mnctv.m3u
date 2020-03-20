@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/zalindo/mnctv.png" group-title="MNCTV",MNC 1
+https://etslive-2-vidio-com.akamaized.net/exp=1584658804~acl=/hls-b/ingest_870_*/*~hmac=3a588e24e1cddee56ce679327ca1fc349508b6fd823cd0889b397aaec90006f4/hls-b/ingest_870_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/zalindo/mnctv.png" group-title="MNCTV",MNC 2
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/zalindo/mnctv.png" group-title="MNCTV",MNC 3
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/zalindo/mnctv.png" group-title="MNCTV",MNC 4
+https://app-linier.akamaized.net/live/eds/MNC/sa_hls/MNC-avc1_1000000=3-mp4a_64000=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="MNCTV", MNC 5
+https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1582369069~exp=9007200837110060~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_1/chunklist.m3u8*~hmac=d368274b351995408b588c80d5c71de799a9f554f7a78be93c4b495e41f72bb8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="MNCTV", MNC 6
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="MNCTV", MNC 7
+https://live.rctiplus.id/rctiplus/mnctv_360p.m3u8
