@@ -1,48 +1,152 @@
 #EXTM3U
-#EXTINF:-1 group-title="LOKAL OK", KOMPAS TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="LOKAL TEST", RCTI
+https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="LOKAL TEST", RCTI 2
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="LOKAL TEST", RCTI 3
+https://live.rctiplus.id/rctiplus/rcti_360p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="LOKAL TEST", MNCTV
+https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1582369069~exp=9007200837110060~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_1/chunklist.m3u8*~hmac=d368274b351995408b588c80d5c71de799a9f554f7a78be93c4b495e41f72bb8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="LOKAL TEST", MNCTV 2
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="LOKAL TEST", MNCTV 3
+https://live.rctiplus.id/rctiplus/mnctv_360p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_(2017).png" group-title="LOKAL TEST", GLOBALTV
+https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1582368852~exp=9007200837109843~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=1b9d6f4c1bc8a72acfa2aa0d0286fe998358c562dd76baebf79fb783d6973773
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_(2017).png" group-title="LOKAL TEST",GLOBALTV2
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_(2017).png" group-title="LOKAL TEST",GLOBAL TV3 (new)
+https://live.rctiplus.id/rctiplus/gtv_360p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118!SCTV_Logo.png" group-title="LOKAL TEST",SCTV
+http://210.210.155.35/session/c4149592-07c5-11ea-888f-b82a72d63267/qwr9ew/s/s103/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118!SCTV_Logo.png" group-title="LOKAL TEST",SCTV 2
+http://id1.indostreamingtv.com:80/live/sctv/index.m3u8
+http://210.210.155.35/qwr9ew/s/s103/01.m3u8      
+#EXTINF:-1 tvg-logo="http://www.perhumas.or.id/wp-content/uploads/LOGO-TRANS-TV.png" group-title="LOKAL TEST",TRANSTV
+http://210.210.155.35/session/0fd20eca-07c5-11ea-9bba-c81f66f89318/qwr9ew/s/s100/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.perhumas.or.id/wp-content/uploads/LOGO-TRANS-TV.png" group-title="LOKAL TEST",TRANSTV 2
+http://id2.indostreamingtv.com/live/tv33/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.perhumas.or.id/wp-content/uploads/LOGO-TRANS-TV.png" group-title="LOKAL TEST",TRANSTV 3
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="LOKAL TEST", TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w63099618_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="LOKAL TEST", TRANS 7+
+http://id2.indostreamingtv.com:80/live/trans7/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="LOKAL TEST", TRANS 7++
+http://210.210.155.35/qwr9ew/s/s101/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="LOKAL TEST", TRANS 7+++
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_(2017).svg/1280px-Antv_logo_(2017).svg.png" group-title="LOKAL TEST", ANTV http://210.210.155.35/qwr9ew/s/s102/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_(2017).svg/1280px-Antv_logo_(2017).svg.png" group-title="LOKAL TEST", ANTV 2 http://id2.indostreamingtv.com:80/live/antv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkpzdWLx/nettv.png" group-title="LOKAL TEST", NET. TV
+http://45.126.83.51/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkpzdWLx/nettv.png" group-title="LOKAL TEST", NET. TV2 (new)
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkpzdWLx/nettv.png" group-title="LOKAL TEST", NET. TV3
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/RtvIndonesia.png" group-title="LOKAL TEST", RTV
+http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/RtvIndonesia.png" group-title="LOKAL TEST", RTV2 (new)
+https://etslive-2-vidio-com.akamaized.net/exp=1581317056~acl=/hls-p/ingest_geo_1561_*/*~hmac=843168e95c069bdbce91cadffec8c13a2d9e6214dd9ffd7f7b34ee7eb538caa3/hls-p/ingest_geo_1561_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/RtvIndonesia.png" group-title="LOKAL TEST", RTV3
+http://45.126.83.51/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png" group-title="LOKAL TEST", INDOSIAR (new)
+http://203.153.218.28:9981/stream/channelid/261435212?ticket=4006885A62AC6F6CF48BE55E87E506C848CBFDB6&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJn5RzwG/tvri.png" group-title="LOKAL TEST", TVRI
+http://45.126.83.51/qwr9ew/s/s11/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJn5RzwG/tvri.png" group-title="LOKAL TEST", TVRI+ http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJn5RzwG/tvri.png" group-title="LOKAL TEST", TVRI++
+http://210.210.155.35/session/2c64ecb2-b724-11e8-9332-b82a72d63267/qwr9ew/s/s11/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJn5RzwG/tvri.png" group-title="LOKAL TEST", TVRI new
+https://etslive-2-vidio-com.akamaized.net/exp=1581555461~acl=/hls-p/ingest_6441_*/*~hmac=58b0fd374ba9021324f8ef8416a77b664659aa1d6a7f11efd309368184246beb/hls-p/ingest_6441_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="LOKAL TEST", TVRI Sports
+http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u
+============================================= LOKAL TEST ================================================
+#EXTINF:-1 tvg-logo="https://asset.kompas.com/data/photo/2015/11/16/0707365kompast780x390.jpg" group-title="LOKAL TEST", KOMPAS TV http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 tvg-logo="https://asset.kompas.com/data/photo/2015/11/16/0707365kompast780x390.jpg" group-title="LOKAL TEST", KOMPAS TV 2
+https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMZKVJtf/Metro-TV-Logo-2010.png" group-title="LOKAL TEST", METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8 #EXTINF:0 tvg-logo="https://i.postimg.cc/kMZKVJtf/Metro-TV-Logo-2010.png" group-title="LOKAL TEST", METRO TV 2 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLxvHLvD/Tv-One-logo-2010.png" group-title="LOKAL TEST", TV ONE
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLxvHLvD/Tv-One-logo-2010.png" group-title="LOKAL TEST", TV ONE 2
+https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
+#EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="LOKAL TEST", BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4FL2h8M/cnnindonesia.png" group-title="LOKAL TEST", CNN INDONESIA 2
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8b/Cnn.svg/1200px-Cnn.svg.png" group-title="LOKAL TEST", CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8b/Cnn.svg/1200px-Cnn.svg.png" group-title="LOKAL TEST", CNN INDONESIA 2
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="LOKAL TEST", I-NEWS TV
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png" group-title="LOKAL TEST", CBNC
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1203062717_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://www.inspira.tv/images/inspira-logo.png" group-title="LOKAL TEST", INSPIRA
+http://stream1.ninmedia.tv/inspiratv/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGcg87rw/elshintatv.png" group-title="LOKAL TEST", ELSHINTA TV
+http://45.126.83.51/qwr9ew/s/s10/01.m3u8
+============================================== TV LOKAL TEST =================================================================
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C11GK0PM/rodjatv.png" group-title="LOKAL TEST", RODJA TV
+http://45.126.83.51/qwr9ew/s/s14/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxmR2TZz/daaitv.png" group-title="LOKAL TEST", DAAI TV
+http://45.126.83.51/qwr9ew/s/s13/index2.m3u8
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-NU-Channel-Logo-alpha-250px-1-234x300.png" group-title="LOKAL TEST", NU CHANNEL
+http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fzpywHj4IXk/hqdefault_live.jpg"group-title="LOKAL TEST", Madinah
+http://210.210.155.35/session/26a6dff0-dd8a-11e9-888f-b82a72d63267/qwr9ew/s/s27/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fzpywHj4IXk/hqdefault_live.jpg"group-title="LOKAL TEST", MADINAH
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lJYuCEOVD1A/maxresdefault.jpg" group-title="LOKAL TEST", MAKKAH
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+
+================================================ LOKAL TEST===================================
+#EXTM3U
+#EXTINF:-1 group-title="LOKAL TEST", KOMPAS TV
 http://210.210.155.35/qwr9ew/s/s104/01.m3u8
 
-#EXTINF:-1 group-title="LOKAL OK",METRO TV HD
+#EXTINF:-1 group-title="LOKAL TEST",METRO TV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729486727_b1492000_sleng.m3u8
 
-#EXTINF:-1 group-title="LOKAL OK",BERITA SATU
+#EXTINF:-1 group-title="LOKAL TEST",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
-#EXTINF:-1 group-title="LOKAL OK",TRANS 7 HD
+#EXTINF:-1 group-title="LOKAL TEST",TRANS 7 HD
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
 
-#EXTINF:-1 group-title="LOKAL OK",TRANS TV HD
+#EXTINF:-1 group-title="LOKAL TEST",TRANS TV HD
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
 
-#EXTINF:-1 group-title="LOKAL OK",TRANS 7
+#EXTINF:-1 group-title="LOKAL TEST",TRANS 7
 http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 
-#EXTINF:-1 group-title="LOKAL OK",TVONE
+#EXTINF:-1 group-title="LOKAL TEST",TVONE
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 
-#EXTINF:-1 group-title="LOKAL OK",NET TV
+#EXTINF:-1 group-title="LOKAL TEST",NET TV
 http://45.126.83.51/qwr9ew/s/s08/index.m3u8
 
-#EXTINF:-1 group-title="LOKAL OK",TVRI SPORT
+#EXTINF:-1 group-title="LOKAL TEST",TVRI SPORT
 http://210.210.155.35/qwr9ew/s/s107/01.m3u8
 
-#EXTINF:-1 group-title="LOKAL OK",FIGHT SPORTS
+#EXTINF:-1 group-title="LOKAL TEST",FIGHT SPORTS
 http://210.210.155.35/uq2663/h/h05/01.m3u8
 
-#EXTINF:-1 group-title="LOKAL OK",CNN INDONESIA HD
+#EXTINF:-1 group-title="LOKAL TEST",CNN INDONESIA HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="LOKAL OK",ELSHINTA TV
+#EXTINF:-1 group-title="LOKAL TEST",ELSHINTA TV
 http://45.126.83.51/qwr9ew/s/s10/index.m3u8
 
-#EXTINF:-1 group-title="LOKAL OK",TVRI
+#EXTINF:-1 group-title="LOKAL TEST",TVRI
 http://45.126.83.51/qwr9ew/s/s11/index.m3u8
 
-#EXTINF:-1 group-title="LOKAL OK",CNBC INDONESIA HD
+#EXTINF:-1 group-title="LOKAL TEST",CNBC INDONESIA HD
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="LOKAL OK",RTV
+#EXTINF:-1 group-title="LOKAL TEST",RTV
 http://45.126.83.51/qwr9ew/s/s12/index.m3u8
 
-#EXTINF:-1 group-title="LOKAL OK",DAAI TV
+#EXTINF:-1 group-title="LOKAL TEST",DAAI TV
 http://45.126.83.51/qwr9ew/s/s13/index.m3u8
