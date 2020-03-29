@@ -1,56 +1,5 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3zzqEti.png" group-title="* Fluxus.tv",* Fluxus.tv
-https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/akAb8NA.png" group-title="* Fluxus.tv",Fluxus Wallpapers (MP4)
-https://fluxustv.blogspot.com@bit.ly/FluxusTV-Wallpapers?.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/akAb8NA.png" group-title="* Fluxus.tv",Fluxus Wallpapers (YouTube)
-https://www.youtube.com/watch?v=hZn3IKn0TmA
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E7hPvSM.png" group-title="* Fluxus.tv",Fluxus Universe (MP4)
-https://fluxustv.blogspot.com@bit.ly/FluxusUniverse?.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E7hPvSM.png" group-title="* Fluxus.tv",Fluxus Universe (YouTube)
-https://www.youtube.com/watch?v=X8VXPaTub7k
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H8p24fF.png" group-title="* Fluxus.tv",Fluxus Immersed (MP4)
-https://fluxustv.blogspot.com@bit.ly/FluxusRelax?.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H8p24fF.png" group-title="* Fluxus.tv",Fluxus Immersed (YouTube)
-https://www.youtube.com/watch?v=LPZF60cpLFc
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/62H9un9.png" group-title="+ IPTV Playlist",+ IPTV Playlist
-https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DonjeJR.png" group-title="- Update: 03.13.2020",- Update: 03.13.2020
-https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rDow9Y7.png" group-title="LABEL",~ 24/7 YouTube English ~
-https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DBJTZaS.png" group-title="24/7 YOUTUBE ENGLISH",Al Jazeera
-https://www.youtube.com/watch?v=WisZM9CMlTo
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="24/7 YOUTUBE ENGLISH",DW News
-https://www.youtube.com/watch?v=NvqKZHpKs-g
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 YOUTUBE ENGLISH",Euronews
-https://www.youtube.com/watch?v=F-uW_IswLh8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 YOUTUBE ENGLISH",France 24
-https://www.youtube.com/watch?v=6N0lbZr_wXs
- 
-#EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="24/7 YOUTUBE ENGLISH",RT
-https://www.youtube.com/watch?v=NvCSr7qzAAM
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="24/7 YOUTUBE ENGLISH",Sky News
-https://www.youtube.com/watch?v=9Auq9mYxFEE
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AivW9rc.png" group-title="LABEL",~ 24/7 Adult Swim ~
-https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eQYzog8.png" group-title="24/7 ADULT SWIM",Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
  
