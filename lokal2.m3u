@@ -1,42 +1,4 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="NetTV.id" tvg-name="Server ID: NET HD" tvg-logo="" group-title="Server ID",Server ID: NET HD
-http://tvku.live:8888/IptvAdi/678ugt/3579
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Server ID: Trans 7" tvg-logo="" group-title="Server ID",Server ID: Trans 7
-http://tvku.live:8888/IptvAdi/678ugt/3583
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Server ID: Trans TV" tvg-logo="" group-title="Server ID",Server ID: Trans TV
-http://tvku.live:8888/IptvAdi/678ugt/3584
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="Server ID: ANTV" tvg-logo="" group-title="Server ID",Server ID: ANTV
-http://tvku.live:8888/IptvAdi/678ugt/3588
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="Server ID: SCTV" tvg-logo="" group-title="Server ID",Server ID: SCTV
-http://tvku.live:8888/IptvAdi/678ugt/3593
-#EXTINF:-1 tvg-id="" tvg-name="Server ID: Indosiar" tvg-logo="" group-title="Server ID",Server ID: Indosiar
-http://tvku.live:8888/IptvAdi/678ugt/4839
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png"group-title="MNC GROUP",MNCTV HD
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#EXTINF:-1 group-title="MNC GROUP",RCTI 
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-#EXTINF:-1 group-title="MNC GROUP",RCTI HD
-http://id6.indostreamingtv.com/live/rcti/index.m3u8
-#EXTINF:-1 group-title="MNC GROUP",GLOBAL TV 
-http://202.80.222.130/000001/2/ch14041511505498448705/index.m3u8?_res_tag_=video&amp;virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png"group-title="MNC GROUP",,GLOBAL TV HD
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="MNC GROUP",TVONE HD
-https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybKst-5K8MJLn9w-Kcd7h32s)/dm/3/x619221/s/live-3.m3u8
-#EXTINF:-1 tvg-id="TVOne.id" tvg-name="Server ID: TV One" tvg-logo="" group-title="Server ID",Server ID: TV One
-http://tvku.live:8888/IptvAdi/678ugt/3587
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Server ID: Metro TV" tvg-logo="" group-title="Server ID",Server ID: Metro TV
-http://tvku.live:8888/IptvAdi/678ugt/3589
-#EXTINF:-1 tvg-id="KompasTv.id" tvg-name="Server ID: Kompas TV" tvg-logo="" group-title="Server ID",Server ID: Kompas TV
-http://tvku.live:8888/IptvAdi/678ugt/3590
-#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="Server ID: Berita Satu" tvg-logo="" group-title="Server ID",Server ID: Berita Satu
-http://tvku.live:8888/IptvAdi/678ugt/3578
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="Server ID: TVRI" tvg-logo="" group-title="Server ID",Server ID: TVRI
-http://tvku.live:8888/IptvAdi/678ugt/3594
-#EXTINF:-1 tvg-id="" tvg-name="Server ID: Elshinta" tvg-logo="" group-title="Server ID",Server ID: Elshinta
-http://tvku.live:8888/IptvAdi/678ugt/3581
-#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="Server ID: Rajawali TV" tvg-logo="" group-title="Server ID",Server ID: Rajawali TV
-http://tvku.live:8888/IptvAdi/678ugt/3591
+#
 #EXTINF:-1 tvg-id="" tvg-name="Server ID: Nusantara TV" tvg-logo="" group-title="Server ID",Server ID: Nusantara TV
 http://tvku.live:8888/IptvAdi/678ugt/3582
 #EXTINF:-1 tvg-id="" tvg-name="Server ID: Rodja" tvg-logo="" group-title="Server ID",Server ID: Rodja
